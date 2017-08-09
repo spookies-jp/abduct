@@ -6,7 +6,6 @@
   <meta charset="UTF-8">
   <meta name="google-site-verification" content="xxxxxxxx"/>
   <meta name="Description" content="xxxxxxx"/>
-  <meta name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="google-site-verification" content="xxxxxxxx" />
 
@@ -31,15 +30,21 @@
 
   <style type="text/css">
     body {
-      background: #000 url('./image/back.png') no-repeat center top;
+      background-color: #000;
      }
     div#site {
-      width: 1024px;
+    }
+    div.contents {
+      background: url('./image/back.png');
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: 100%;
+      max-width: 1024px;
       margin: 0 auto;
-      text-align: center;
+      padding-top: 48vw;
     }
     div.twitter {
-      margin: 600px auto 50px;
+      margin: 100px auto 50px;
       width: 80%;
       height: 500px;
       background-color: white;
@@ -51,6 +56,9 @@
       display: flex;
       justify-content: space-between;
     }
+    div.twitter div.body {
+
+    }
 
     div.appinfo {
       background: #000;
@@ -60,7 +68,6 @@
       color: white;
     }
     div.appinfo dl.info{
-      width: 1024px;
       margin: 0 auto;
     }
     div.download {
@@ -68,8 +75,20 @@
       justify-content: space-between;
       align-items: flex-start;
       flex-wrap: wrap;
-      margin: 20px;
+      width: 80%;
+      margin: 50px auto 50px;
       text-align: center;
+    }
+    div.notice {
+      color: red;
+      font-weight: bold;
+      font-size: 1.3em;
+      background: #fff;
+      border-radius: 4px;
+      opacity: 0.7;
+      width: 90%;
+      margin: 5px auto;
+      padding: 0.2em;
     }
     div.footer {
       margin: 0;
@@ -87,14 +106,14 @@
     }
     dt{
       display: block;
-      width: 20%;
+      width: 15%;
       clear: left;
       float: left;
       font-weight: bold;
     }
     dd{
       display: block;
-      width: 80%;
+      width: 85%;
       float: left;
     }
     .clearfix:after {
@@ -107,47 +126,48 @@
 </head>
 <body>
   <div id="site">
-    <a name="top" id="top"></a>
-
-    <div class="twitter">
-      <div class="title">
-        <div><img src="./image/ufo.png"></div>
-        <div>
-          <a class="twitter-timeline" href="https://twitter.com/abductiogame"><img src="./image/twitter_title.png"/></a>
+    <div class="contents">
+      <div class="twitter">
+        <div class="title">
+          <div><img src="./image/ufo.png"></div>
+          <div>
+            <img src="./image/twitter_title.png"/>
+          </div>
+          <div><img src="./image/ufo.png"></div>
         </div>
-        <div><img src="./image/ufo.png"></div>
+        <div>
+          <a class="twitter-timeline" href="https://twitter.com/spookiesjp"></a>
+          <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
       </div>
-      <div>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+      <div class="download">
+        <div>
+          <a href="https://itunes.apple.com/jp/app/abduct-io/id1211084803?l=ja&ls=1&mt=8">
+            <img alt='App Store' src='./image/app_store.png' height="105px" />
+          </a>
+        </div>
+        <div>
+          <img alt='Google Play' src='./image/google_play.png' height="105px" />
+          <div class="notice">Coming Soon!</div>
+        </div>
+      </div>
+
+      <div class="appinfo">
+        <div>
+          <img src="./image/game_icon.png" />
+        </div>
+        <dl class="info clearfix">
+          <dt>Title：</dt><dd>Abduct.io</dd>
+          <dt>OS：</dt><dd>iOS 8.0以降。iPhone5s以上対応 ／ Android OS 4.2以降（一部非推奨端末あり）</dd>
+          <dt>Price：</dt><dd>無料（一部課金アイテムあり）</dd>
+        </dl>
       </div>
     </div>
 
-    <div class="download">
-      <div>
-        <a href="https://itunes.apple.com/jp/app/abduct-io/id1211084803?l=ja&ls=1&mt=8">
-          <img alt='App Store' src='./image/app_store.png' height="105px" />
-        </a>
-      </div>
-      <div>
-        <img alt='Google Play' src='./image/google_play.png' height="105px" />
-        <div style="color: white; font-size: 1.3em; margin-top: 0px;">Coming Soon!</div>
-      </div>
+    <div class="footer">
+      <div class="copy_right">Copyright © 2006 - 2017 <a href="http://www.spookies.co.jp/" target="_blank">Spookies Co., Ltd</a> all rights reserved.</div>
     </div>
-
-    <div class="appinfo">
-      <div>
-        <img src="./image/game_icon.png" />
-      </div>
-      <dl class="info clearfix">
-        <dt>Title：</dt><dd>Abduct.io</dd>
-        <dt>OS：</dt><dd>iOS 8.0以降。iPhone5s以上対応 ／ Android OS 4.2以降（一部非推奨端末あり）</dd>
-        <dt>Price：</dt><dd>無料（一部課金アイテムあり）</dd>
-      </dl>
-    </div>
-  </div>
-
-  <div class="footer">
-    <div class="copy_right">Copyright © 2006 - 2017 <a href="http://www.spookies.co.jp/" target="_blank">Spookies Co., Ltd</a> all rights reserved.</div>
   </div>
 </body>
 </html>
