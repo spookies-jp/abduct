@@ -39,8 +39,17 @@
       text-align: center;
     }
     div.twitter {
-      margin-top: 600px;
+      margin: 600px auto 50px;
+      width: 80%;
       height: 500px;
+      background-color: white;
+    }
+    div.twitter div.title {
+      margin: 0 auto;
+      text-align: center;
+      width: 70%;
+      display: flex;
+      justify-content: space-between;
     }
 
     div.appinfo {
@@ -101,10 +110,15 @@
     <a name="top" id="top"></a>
 
     <div class="twitter">
-      <div class="twitterbody">
-        <div class="twitterbodyinner">
-        <a class="twitter-timeline" href="https://twitter.com/abductiogame">Tweets by abductiogame</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <div class="title">
+        <div><img src="./image/ufo.png"></div>
+        <div>
+          <a class="twitter-timeline" href="https://twitter.com/abductiogame"><img src="./image/twitter_title.png"/></a>
         </div>
+        <div><img src="./image/ufo.png"></div>
+      </div>
+      <div>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
     </div>
 
@@ -115,24 +129,25 @@
         </a>
       </div>
       <div>
-        <a href='https://play.google.com/store/apps/details?id=xxxxxx'>
-          <img alt='Google Play' src='./image/google_play.png' height="105px" />
-        </a>
+        <img alt='Google Play' src='./image/google_play.png' height="105px" />
+        <div style="color: white; font-size: 1.3em; margin-top: 0px;">Coming Soon!</div>
       </div>
     </div>
 
     <div class="appinfo">
+      <div>
+        <img src="./image/game_icon.png" />
+      </div>
       <dl class="info clearfix">
-        <dt>タイトル：</dt><dd>Abduct.io</dd>
-        <dt>ジャンル：</dt><dd>パズルRPG</dd>
-        <dt>対応OS ：</dt><dd>iOS 8.0以降。iPhone5s以上対応 ／ Android OS 4.2以降（一部非推奨端末あり）</dd>
-        <dt>価格   ：</dt><dd>無料（一部課金アイテムあり）</dd>
+        <dt>Title：</dt><dd>Abduct.io</dd>
+        <dt>OS：</dt><dd>iOS 8.0以降。iPhone5s以上対応 ／ Android OS 4.2以降（一部非推奨端末あり）</dd>
+        <dt>Price：</dt><dd>無料（一部課金アイテムあり）</dd>
       </dl>
     </div>
   </div>
 
   <div class="footer">
-    <div class="copy_right">Copyright © 2006 - 2017 <a href="http://www.spookies.co.jp/">Spookies Co., Ltd</a> all rights reserved.</div>
+    <div class="copy_right">Copyright © 2006 - 2017 <a href="http://www.spookies.co.jp/" target="_blank">Spookies Co., Ltd</a> all rights reserved.</div>
   </div>
 </body>
 </html>
