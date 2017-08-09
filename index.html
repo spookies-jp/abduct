@@ -4,23 +4,21 @@
 <head>
   <title>Abduct.io | Spookies</title>
   <meta charset="UTF-8">
-  <meta name="google-site-verification" content="xxxxxxxx"/>
   <meta name="Description" content="xxxxxxx"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="google-site-verification" content="xxxxxxxx" />
 
-  <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+  <link rel="shortcut icon" href="./image/favicon.ico">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="apple-mobile-web-app-title" content="Abduct.io | Spookies">
   <meta name="application-name" content="spookies">
   <meta name="theme-color" content="#ffffff">
-  <meta name="keywords" content="Abduct,Spookies,spookies,spooky,spook,スプーキーズ">
+  <meta name="keywords" content="Abduct,アブダクト,Spookies,spookies,spooky,spook,スプーキーズ">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Cache-Control" content="no-cache">
   <meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
-  <meta property="og:image" content="/images/header/recruit/6.jpg">
-  <meta property="og:site_name" content="株式会社スプーキーズ">
-  <meta property="og:title" content="株式会社スプーキーズ">
+  <meta property="og:image" content="./images/game_logo.jpg">
+  <meta property="og:site_name" content="Abduct.io | Spookies">
+  <meta property="og:title" content="Abduct.io | Spookies">
   <meta property="og:url" content="http://www.spookies.co.jp/">
   <meta property="og:type" content="website">
   <meta charset="UTF-8">
@@ -57,7 +55,8 @@
       justify-content: space-between;
     }
     div.twitter div.body {
-
+      height: 400px;
+      overflow: scroll;
     }
 
     div.appinfo {
@@ -66,9 +65,11 @@
       padding: 10px;
       text-align: left;
       color: white;
+      display: flex;
+      justify-content: space-between;
     }
     div.appinfo dl.info{
-      margin: 0 auto;
+      margin-left: 30px;
     }
     div.download {
       display: flex;
@@ -135,7 +136,7 @@
           </div>
           <div><img src="./image/ufo.png"></div>
         </div>
-        <div>
+        <div class="body">
           <a class="twitter-timeline" href="https://twitter.com/spookiesjp"></a>
           <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
@@ -155,11 +156,11 @@
 
       <div class="appinfo">
         <div>
-          <img src="./image/game_icon.png" />
+          <img src="./image/game_logo.jpg" width="200px" />
         </div>
         <dl class="info clearfix">
           <dt>Title：</dt><dd>Abduct.io</dd>
-          <dt>OS：</dt><dd>iOS 8.0以降。iPhone5s以上対応 ／ Android OS 4.2以降（一部非推奨端末あり）</dd>
+          <dt>OS：</dt><dd>iOS 8.0以降(iPhone5s以上) ／ Android OS 4.2以降(一部非推奨端末あり)</dd>
           <dt>Price：</dt><dd>無料（一部課金アイテムあり）</dd>
         </dl>
       </div>
@@ -169,5 +170,15 @@
       <div class="copy_right">Copyright © 2006 - 2017 <a href="http://www.spookies.co.jp/" target="_blank">Spookies Co., Ltd</a> all rights reserved.</div>
     </div>
   </div>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-104307797-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+
 </body>
 </html>
