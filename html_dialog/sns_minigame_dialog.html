@@ -1,0 +1,202 @@
+<html>
+<body>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+   
+    .sns-explain-text {
+        text-align: center;
+        font-size: 25px;
+        padding-top: 10px;
+    }
+
+    .sns-explain-text div {
+        text-align: center;
+    }
+
+    .title-container {
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+    .score-container {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+
+    .score-title {
+        margin-right: 90px;
+    }
+
+    .score-title-ul {
+        list-style-type: none;
+        list-style: none;
+        float: left;
+        text-align: left;
+        padding-left: 100px;
+    }
+
+    .score-value-ul {
+        list-style-type: none;
+        list-style: none;
+    }
+
+    .current-score-text {
+        font-weight: bold;
+    }
+
+    .sns-icons {
+        padding-top: 20px;
+    }
+
+    .sns-icon {
+
+    }
+
+    .sns-icon-img {
+        width: 70px;
+        box-shadow: 2px 2px 4px 1px rgba(18, 18, 18, 0.39);
+        cursor: pointer;
+    }
+
+
+    #sns-dialog {
+        background-image: url(./dialogBox.png);
+        height: 435.3px;
+        width: 600px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        border-radius: 8px;
+        box-shadow: 6px 4px 5px 0px rgba(18, 18, 17, 0.47);
+    }
+
+    .close-button {
+        background-color: #52bee8;
+        box-shadow: 1px 1px 1px rgba(18, 18, 18, 0.56);
+        position: absolute;
+        top: 6px;
+        right: 10px;
+        width: 36px;
+        height: 36px;
+        border-radius: 36px;
+        z-index: 1;
+    }
+
+    .close-button:hover{
+        background-color: rgba(222, 221, 221, 0.77);
+        box-shadow: 0px 0px 8px 1px rgba(245, 249, 249, 0.95);
+    }
+
+    .close-button:active{
+        background-color: rgba(68, 63, 63, 0.77);
+        box-shadow: 0px 0px 12px 1px rgba(220, 220, 220, 0.95);
+    }
+
+
+    .cross-icon {
+        color: white;
+    }
+
+    .cross-icon:before,.cross-icon:after{
+        display: block;
+        content: '';
+        width: 4px;
+        height: 30px;
+        -webkit-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        background-color: rgba(137, 137, 137, 0.95);
+        border-radius: 10px;
+        position: absolute;
+        top: 3px;
+        left: 16px;
+    }
+    .cross-icon:after{
+      -webkit-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+    }
+
+</style>
+</head>
+
+<div id="sns-dialog">
+    <div class="close-button" onclick="CloseDialog()">   
+        <span class="cross-icon">
+        </span>
+    </div>
+    
+    <div class="dialog-container">
+        <div class="sns-explain-text" style="color: white">
+            <div class="title-container">
+                <div> [Abduct me!] </div>
+                <div> MINI GAME RESULT </div>
+            </div>
+            
+            <ul class="score-title-ul">
+                <li class="score-title current-score-text"> SCORE </li>
+                <li class="score-title"> COMBO MAX </li>
+
+            </ul>    
+            <ul class="score-value-ul">
+                <li class="score-value current-score-text" id="current-score-value"> 0 </li> 
+                <li class="score-value" id="combo-max-score-value"> 0 </li> 
+            </ul>
+
+            <div>
+                SHARE SCORE!
+            </div>
+        </div>
+
+        <div class="sns-icons">
+            <span class="sns-icon" style="padding-left: 160px;">
+                <img id="sns-twitter-img" onclick="OpenTwitterDialog()" src="./snsIconTwitter.png" class="sns-icon-img" alt="twitter icon">
+            </span>
+            <span class="sns-icon"  style="padding-left: 120px;"">
+                <img id="sns-facebook-img"  onclick="OpenFacebookDialog()" src="./snsIconFacebook.png" class="sns-icon-img" alt="facebook icon">
+            </span>
+
+        </div>
+    </div>
+</div>
+
+<script>
+
+    var SNS_FRAME_ID = "sns-minigame-dialog-frame";
+
+    function OpenTwitterDialog(){
+        var url = "https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw&amp;related=abductiogame&amp;screen_name=abductiogame&amp;text=%23Abduct.io%20%23abductio%20%23abductiogame%20Abduct.io%20is%20abduction%20%26%20shooting%20game!%20Beat%20online%20UFO%20players!%20%20http%3A%2F%2Fabduct.io%2F&amp;tw_p=tweetbutton";
+        window.open(url, "twitterDialog", 'width=600px,height=500px');
+    }
+    function OpenFacebookDialog(){
+        var url = "https://www.facebook.com/Abduct.io/";
+        window.open(url, "facebookDialog",  'width=600px,height=500px');
+    }
+
+    function CloseDialog(){
+        if(window.parent){
+            var frame = window.parent.document.getElementById(SNS_FRAME_ID);
+            if(frame)
+                frame.style.display = "none";
+        }
+    }
+
+    function OpenDialog(currentScore, comboMaxScore){
+
+        var currentScoreSpan = document.getElementById("current-score-value");
+        var comboMaxScoreSpan = document.getElementById("combo-max-score-value");
+
+        currentScoreSpan.innerHTML = currentScore;
+        comboMaxScoreSpan.innerHTML = comboMaxScore;
+
+        if(window.parent){
+            var frame = window.parent.document.getElementById(SNS_FRAME_ID);
+            if(frame)
+                frame.style.display = "block";
+        }
+    }
+
+</script> 
+</body>
+</html>

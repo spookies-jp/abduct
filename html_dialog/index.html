@@ -1,0 +1,70 @@
+<html>
+<body>
+<script>
+    function OpenSnsHTMLDialog(){
+        var SNS_FRAME_ID ="sns-dialog-frame";
+        
+        var frame = document.getElementById(SNS_FRAME_ID);
+        // 既にある場合は表示
+        if(frame){
+            console.log(frame.contentWindow);
+            frame.contentWindow.OpenDialog();
+            return;
+        }
+        
+        // ない場合は新規作成
+        var frame = document.createElement("iframe");
+        frame.id = SNS_FRAME_ID;
+        frame.style.width = "100%";
+        frame.style.height = "100%";
+        frame.style.border = "none";
+        frame.style.position = "absolute";
+        frame.style["padding-left"] = "120px";
+        frame.style.top = "20px";
+        frame.src = "./sns_dialog.html";
+        //frame.src = "./html_dialog/sns_dialog.html";
+
+        document.body.appendChild(frame);
+    }
+
+    function OpenSnsMinigameHTMLDialog(currentScore, comboMaxScore){
+
+        var SNS_FRAME_ID = "sns-minigame-dialog-frame";
+        
+        var frame = document.getElementById(SNS_FRAME_ID);
+
+        if(frame){
+        
+            frame.contentWindow.OpenDialog(currentScore, comboMaxScore);
+
+        } else {
+            
+            // ない場合は新規作成
+            var frame = document.createElement("iframe");
+            frame.id = SNS_FRAME_ID;
+            frame.style.width = "100%";
+            frame.style.height = "100%";
+            frame.style.border = "none";
+            frame.style.position = "absolute";
+            frame.style["padding-left"] = "120px";
+            frame.style.top = "20px";
+            frame.src = "./sns_minigame_dialog.html";
+            //frame.src = "./html_dialog/sns_dialog.html";
+
+            document.body.appendChild(frame);
+
+            frame.contentWindow.onload = function(){
+                frame.contentWindow.OpenDialog(currentScore, comboMaxScore);
+            }
+        }
+        
+
+    }
+
+
+</script>
+<div id="sns-dialog-space">
+</div>
+
+</body>
+</html>
