@@ -95,13 +95,22 @@
     </div>
     
     <div class="dialog-container">
-        <div class="sns-explain-text" style="color: white">
+        
+        <div class="sns-explain-text" id="sns-explain-text-jp" style="color: white">
             <div>1日1回限定！</div>
             <div>Abduct.ioをシェアしてU-milkを </div>
             <div> 手に入れよう！！ </div>
             <div> 次回のU-Milk獲得数がUPします！ </div>
-            <div> 今日の獲得数は 『10』！！ </div>
+            <div> 今日の獲得数は 『<span id="milk-num-jp">10</span>』！！ </div>
         </div>
+
+        <div class="sns-explain-text" id="sns-explain-text-en" style="color: white">
+            <div>Only once a day!</div>
+            <div>Share #Abduct.io and gain U-Milks!!</div>
+            <div>You will gain more U-Milks next time!</div>
+            <div>Today is <span id="milk-num-en">10</span> U-Milks!!</div>
+        </div>
+
         <div class="sns-icons">
             <span class="sns-icon" style="padding-left: 160px;">
                 <img id="sns-twitter-img" onclick="OpenTwitterDialog()" src="./snsIconTwitter.png" class="sns-icon-img" alt="twitter icon">
@@ -125,7 +134,6 @@
     
         var interval = setInterval(function(){
             if(twitterWindow.closed){
-                console.log("close");
                 clearInterval(interval);
                 snsOpenCallback();
             }
@@ -154,8 +162,32 @@
         }
     }
 
-    function OpenDialog(message){
+    function OpenDialog(milkNum, isEnglish){
         if(window.parent){
+            
+            var explainTextElementJp = document.getElementById("sns-explain-text-jp");
+            var explainTextElementEn = document.getElementById("sns-explain-text-en");
+
+            if(isEnglish)
+            {
+                
+                var milkNumElement = document.getElementById("milk-num-en");
+                milkNumElement.innerHTML = milkNum;
+
+                explainTextElementEn.style.display = "block";
+                explainTextElementJp.style.display = "none";
+
+
+            } else {
+
+                var milkNumElement = document.getElementById("milk-num-jp");
+                milkNumElement.innerHTML = milkNum;
+                
+                explainTextElementEn.style.display = "none";
+                explainTextElementJp.style.display = "block";
+            }
+            
+
             var frame = window.parent.document.getElementById(SNS_FRAME_ID);
             if(frame)
                 frame.style.display = "block";

@@ -1,0 +1,1026 @@
+ManifestFileVersion: 0
+CRC: 2776296236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbde33ce5c697c2373f49e2306c74ab3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b4f36f4ee7be8973be9995ec19a28e4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 506a3650ef82d4179bcd5e8f34bf7e9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f230d90f8319482eb72b2939e967117, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13fad60142f9c4f1b8198106267de4ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35648741dd5b14baa82bec08abfe7457, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f239f32a2fcd449ca1f2f6288576d28, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1915ae62b7d224411a306a0816c002d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 363e9872ad27a4ca59c07d233fdf0023, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 467c14922f46f4ee889b833d63e5740c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9b115a22cce74841b19e96ec60f16fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00889ed28e7994a57bc7863917e12610, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17e34ae2138a4405182984330823b51b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 075d6653da7b448ca954b97c033cc3a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d493b63150be1c429f3d01d00318de0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25233b93224cc497f8d32245db0e356d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c9db9144c646494e8d93e0a051e844d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2608538603b69444a80e635b58eccee7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 540ce9c639bd8a2469aafd3d225fb94b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89b79f0741bf64741adc633c8c8b07b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3bff3179c01d484386dbbd03035e28f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 485ddf2c093d74abf922b2a83a6cd235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88f3955c4bd6844b9bd3d86a78a666af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85cc577f6da4e4dd68f5e1854cc4f1c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/AbductedFlash.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash3.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO68/UFO6801.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Item/GiantEffect.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/WhiteHumans/WhiteHuman.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/pauseBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Buildings/building2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Cloud/cloud2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO802.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO48/UFO4801.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1606.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1606.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human11.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1904.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2003.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderUfo.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO63/UFO6301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3404.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsSkinUnlock.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Chicks/chick1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/ActionEffectAccelerationLeft.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO82/UFO8203.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/TreeTropical/TreeTropical1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Logo/loading2.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO23/UFO2302.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2204.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/Item.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOHelpers/ExistableRange.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman13.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1902.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO802.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3501.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Tents/tent2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Item/GiantEffect.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO85/UFO8501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO40/UFO4001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/BoostLemonade.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO94/UFO9401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO506.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO83/UFO8303.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO32/UFO3201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/SliderUFOs/sliderUFOHigh.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO606.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2504.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2605.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO80/UFO8001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO205.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO303.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Statues/Statue1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO108.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1802.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2806.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human9.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2802.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3406.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO61/UFO6101.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/VendingMachines/VendingMachine1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO60/UFO6002.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Tents/Tent1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO98/UFO9801.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/OilTanks/oilTank1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO504.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO106.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2802.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Statues/statue1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderHp.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Utility/joystick.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO85/UFO8501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO205.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_2.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO86/UFO8604.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1805.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic6.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/CloudHorizon/cloudHorizon3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/MissionHelpers/MissionCard.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman6.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human14.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/Droppers/DropperUFO1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3504.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8404.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsDefeatEnemy.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO56/UFO5601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2602.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/Beach.mat
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCharFail.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2803.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO48/UFO4801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Audios/BGM/ab_sk.mp3
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Spirit/SpiritGained.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/titleButton1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO93/UFO9301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2503.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2603.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/beam/Beam.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO58/UFO5801.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO43/UFO4301.png
+- Assets/AssetBundleResources/AssetBundleResources/Audios/BGM/ab_pl.mp3
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO58/UFO5801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleShopButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/MiniMap/mapBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2806.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/Sea.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Cars/Car2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO30/UFO3001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO86/UFO8604.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO90/UFO9001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO88/UFO8801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8405.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO11/UFO1101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO24/UFO2401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/menuCloseButton1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO99/UFO9901.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleShareButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Cloud/Cloud1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO505.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO89/UFO8901.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/Shardable.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO503.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO705.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/CloudHorizon/cloudHorizon1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOHelpers/GrowGiantEffect.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Cars/Car1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualCharTap.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO85/UFO8503.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/pause.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO806.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Bikes/bike2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/EnergySlider/energySliderBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2006.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Cars/car2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1903.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_4.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualStep1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO10/UFO1001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO705.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8104.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3404.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO4/UFO401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human12.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO79/UFO7901.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOHelpers/Barrier.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO42/UFO4201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/menuButton.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO76/UFO7601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Cloud/Cloud3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Beams/beam4.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO12/UFO1201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human7.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionComplete.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/TitleUfo/ufoBeamRotate.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO64/UFO6401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/TipsText/Tips.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Droppers/DropperUFO1.png
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/Explosion/abse_018.wav
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO29/UFO2901.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO206.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO23/UFO2302.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2502.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO94/UFO9401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2805.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2507.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Abductee/SpriteAbducted.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO605.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human8.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1901.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO805.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO305.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/emptyBottle.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/PlayerName.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/EnergySlider/energySliderFill.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/ActionEffectMoveLeft.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/MoveActionMark.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/charBack.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1602.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO52/UFO5201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO12/UFO1202.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO67/UFO6701.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO78/UFO7801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO82/UFO8204.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human15.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1903.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleManualButton2.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO27/UFO2701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO83/UFO8302.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO9/UFO901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO52/UFO5201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderBoost.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human13.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO61/UFO6103.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1502.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/titleButton3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO42/UFO4201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1601.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_1.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO30/UFO3002.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Logo/title-4orange-1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/stageTitle.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleManualButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman7.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO704.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical6.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3405.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO77/UFO7701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8404.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Materials/EnergySlider.mat
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO66/UFO6601.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/DemoUFO.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2606.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualHold.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualStep3.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO50/UFO5001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO301.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO207.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Cars/car1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human6.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3503.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Droppers/DropperBullet1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualCharDoubleTap.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO100/UFO10001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1506.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO56/UFO5601.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectShoot.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO804.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2001.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO82/UFO8201.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8403.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderCharBoost.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Trees/Tree3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualStep2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO86/UFO8602.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/barrierTea.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO67/UFO6701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/explosionFront_0.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO45/UFO4501.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCharNo.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO23/UFO2301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO204.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO303.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1802.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/TreeTropical/treeTropical3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO302.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO703.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3502.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Bikes/bike1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman9.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Droppers/DropperEye1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderCharHp.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO60/UFO6001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO93/UFO9301.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8102.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical6.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/MiniMap/planetMap.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1506.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO39/UFO3901.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectAccelerationRight.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman10.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2206.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionLock.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/VendingMachines/VendingMachine2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO59/UFO5901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/VendingMachines/vendingMachine3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO602.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO61/UFO6104.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO38/UFO3801.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO45/UFO4501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/ClickSuccess/abse_005.wav
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO54/UFO5401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO103.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1905.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectMoveLeft.controller
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ContinueText.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Explosions/Explosion2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Sns/snsIconFacebook.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2507.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO105.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO85/UFO8504.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO14/UFO1401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO203.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO33/UFO3301.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1801.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualTap1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO57/UFO5701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human15.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO706.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO702.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/MapUFO.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO104.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/SliderUFOs/sliderUFOLow.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO204.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3406.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO104.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/TreeTropical/treeTropical2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO39/UFO3901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO73/UFO7301.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Audios/AudioPlayer.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8104.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO33/UFO3301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO105.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1505.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/AbductedScoreText.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO53/UFO5301.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO11/UFO1102.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO83/UFO8303.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2004.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO96/UFO9601.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Present/PresentRotate.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO75/UFO7501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2506.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO30/UFO3002.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO61/UFO6104.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1504.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1502.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO106.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Smoke/effectSmoke1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO47/UFO4701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/fightColaBullet.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO64/UFO6401.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO23/UFO2303.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO86/UFO8602.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItemStelthWater.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO23/UFO2304.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO61/UFO6102.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Trees/Tree1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human10.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO99/UFO9901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO502.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/titleButton2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionStart.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Explosion/explosionBack.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Explosions/Explosion.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO85/UFO8502.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2506.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/triangle.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO24/UFO2401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2504.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Logo/icon4.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO95/UFO9501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_5.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO806.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Drums/drum1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TwitterButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/flash.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO31/UFO3101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2003.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Buddhas/buddha1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/CloudHorizon/CloudHorizon3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO91/UFO9101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8106.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ContinueText.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO49/UFO4901.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1603.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO55/UFO5501.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_6.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Sns/snsIconTwitter.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/BulletSlider/growGiantUfo.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2002.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2601.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO11/UFO1102.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Mission/ClearMission.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualStepBar.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/FlashFast.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO801.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/AbductedScore.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO68/UFO6801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3401.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO69/UFO6901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO803.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectAccelerationRight.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1906.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO30/UFO3001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO202.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO86/UFO8603.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human7.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO702.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO89/UFO8901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectMoveRight.controller
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_1.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/conditionBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Utility/accelerationButton.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman14.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO28/UFO2804.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2005.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO101/UFO10101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2604.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/circle.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO208.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO49/UFO4901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO19/UFO1905.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8103.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human14.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/TitleUfo/UfoTitle2.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO602.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/BulletSlider/bulletNext.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO85/UFO8504.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO604.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Materials/LineB.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Buildings/Building3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO83/UFO8301.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human6.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Buddhas/Buddha1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Spirits/spirit1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO87/UFO8701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Slider/sliderHpEnd.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Milk/milkStage.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCharYes.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO31/UFO3101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Spirits/spirit2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Tents/tent1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2203.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO8/UFO805.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8403.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1604.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Bikes/Bike2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Trees/tree4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/ActionPanel/actionAreaBar.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Mission/StageMission.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/misssionCharback.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic8.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/StealthWater.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2603.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/AbducteeList.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/CloudHorizon/CloudHorizon5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1805.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/giantCoffee.png
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/CountDown/abse_002.wav
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO23/UFO2303.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO100/UFO10001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsAbductable.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO306.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO9/UFO901.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO98/UFO9801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Present/PresentButton.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO17/UFO1701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualDoubleTap.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO86/UFO8601.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/menu.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8405.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO604.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO302.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/AbductedFlash.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO38/UFO3801.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO43/UFO4301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO65/UFO6501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Bikes/Bike1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualCharBoost.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/EffectSmoke1.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO21/UFO2101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2604.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO501.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human10.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2206.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/CloudHorizon/cloudHorizon4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO97/UFO9701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/explosionBack_0.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsSkinSelect1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleSettingButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/DamageSlider/damageSliderBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/ActionEffectAccelerationRight.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3505.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Abductee/NotAbducted.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Drums/Drum1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/CloudHorizon/cloudHorizon5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/dialogBox.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic7.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Materials/GrowGiant.mat
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_6.controller
+- Assets/AssetBundleResources/AssetBundleResources/Animations/TitleUfo/UFOTitle1.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO61/UFO6101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO51/UFO5101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO87/UFO8701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/BulletSlider/bullletSliderFill.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1806.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCardUnselectable.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO37/UFO3701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human8.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Cars/Car3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1605.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO82/UFO8204.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2202.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleGround.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO206.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO59/UFO5901.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/HouseTropical/HouseTropical4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_0.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO504.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/OilTanks/OilTank1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2605.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Beams/beam3.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsMilkPresent.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO91/UFO9101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Cloud/cloud4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/TreeTropical/treeTropical1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItemGiantCoffee.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3506.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/FightColaBullet.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/DamageSlider/damegeSliderFill
+  1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO603.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO26/UFO2606.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Buildings/Building1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO60/UFO6004.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO82/UFO8201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/AbductedFlash.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/explosion.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Trees/tree1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleHomePageButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman11.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/CloudHorizon/CloudHorizon1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/GiantCoffee.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Trees/Tree5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human11.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualArrowRight1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCardSelecting.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO36/UFO3601.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO35/UFO3506.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/explodeBack.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Audios/BGM/ab_mi.mp3
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO605.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO82/UFO8202.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO55/UFO5501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/presentMoviePlay.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/ActionEffectShoot.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO71/UFO7101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualBackgroundSide.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Cars/car3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8406.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO102.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO90/UFO9001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/buttonBlue.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2505.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO503.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO66/UFO6601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO85/UFO8502.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1804.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectAccelerationLeft.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2006.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO79/UFO7901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest6.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1803.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Beams/beam2.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectShoot.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2502.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3503.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Boxes/Box1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO60/UFO6003.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO78/UFO7801.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO505.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/FlashFast.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/CloudHorizon/cloudHorizon2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human9.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash6.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO203.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsGrowGiant.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/UFOButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO44/UFO4401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO37/UFO3701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsBoost.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO83/UFO8301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2205.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3504.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO74/UFO7401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO15/UFO1503.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO103.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2805.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO306.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/Explosion1_0.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/SkinHelper/Background/skinBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO701.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2204.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO304.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_4.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2801.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO26/UFO2602.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO1/UFO107.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8102.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO14/UFO1401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Utility/joystickBase.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman8.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO73/UFO7301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO29/UFO2901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1602.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1604.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Sns/snsIconInstagram.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8105.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic6.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO83/UFO8304.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCharTitle.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO72/UFO7201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman15.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8406.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Bullet/NextBulletImage.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO13/UFO1301.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Bullet/ChangedNextBullet.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO40/UFO4001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO80/UFO8001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/Explode.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO44/UFO4401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO7/UFO706.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/SliderUFOs/sliderUFOMiddle.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1904.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/buttonYellow.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO88/UFO8801.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/ClickFailure/abse_007.wav
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2508.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2503.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO704.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleEmailButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Cloud/Cloud2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/DamageSlider/damegeHeart.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO803.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualArrowLeft1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/fightCola.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Tents/Tent2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/VendingMachines/VendingMachine3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO47/UFO4701.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO72/UFO7201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO60/UFO6003.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Materials/LineA.mat
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/FacebookButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO12/UFO1201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/VendingMachines/vendingMachine2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1504.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/beam/inBeam.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/BoostActionMark.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO61/UFO6103.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO101/UFO10101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO304.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Cloud/cloud1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2203.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Trees/Tree4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItemBarrierTea.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCharSelect.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO25/UFO2508.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Smoke/effectSmoke2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItemBoostLemonade.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8103.png
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/Select/abse_013.wav
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOHelpers/EnemyIndicator.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1906.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO10/UFO1001.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/AbductedScoreText.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/TreeTropical/TreeTropical2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2002.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Abductee/Abducted.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/bulletIcon.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3405.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/arrow2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO77/UFO7701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionCardSelectable.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1806.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO46/UFO4601.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO207.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO6/UFO606.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2803.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO2/UFO202.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Spirits/Spirit2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Spirits/Spirit1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualBullet2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/stealthWater.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Cows/cow1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO95/UFO9501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO83/UFO8302.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO5/UFO506.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Buildings/building3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Boxes/Box1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_3.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageHelpers/ActionEffectMoveRight.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Audios/BGM/ab_ti.mp3
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1901.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/missionBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/CPU.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsSkinSelect2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO601.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO53/UFO5301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO20/UFO2004.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualCharMove.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/menuContinue.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/TreeTropical/TreeTropical3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO11/UFO1101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Explosion/Explosion1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/BarrierTea.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO108.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO57/UFO5701.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3505.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman12.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/explodeFront.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO13/UFO1301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO7/UFO703.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO84/UFO8402.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO92/UFO9201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Helper/arrow1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO16/UFO1605.png
+- Assets/AssetBundleResources/AssetBundleResources/Materials/EffectFlash1.mat
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItemFightCola.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsItem.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsEvilEnemy.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO60/UFO6004.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Trees/tree5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO81/UFO8106.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO18/UFO1803.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/BulletSlider/bullletSliderBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO5/UFO502.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/menuContinueMovie.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectMoveRight.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3402.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest6.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO62/UFO6201.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO86/UFO8603.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO82/UFO8203.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO35/UFO3502.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO32/UFO3201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualCharShoot.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3403.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2202.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Spirits/Spirit3.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO41/UFO4101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO92/UFO9201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO60/UFO6002.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO82/UFO8202.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Items/boostLemonade.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Trees/tree2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_0.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic8.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsMilk.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO85/UFO8503.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Cloud/cloud3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectMoveLeft.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human12.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO3/UFO305.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Spirits/spiritFlash1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/setting.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/TitleUfo/ufoBeamPosition.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO70/UFO7001.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/CloudHorizon/CloudHorizon2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO71/UFO7101.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO41/UFO4101.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO36/UFO3601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Materials/EffectFlash2.mat
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human5.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO70/UFO7001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Buildings/Building2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Cloud/Cloud4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/StageHelper/ActionEffectAccelerationLeft.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO12/UFO1202.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO102.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/Forest/Forest1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Spirits/spirit3.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO6/UFO603.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO34/UFO3402.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO46/UFO4601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Explosion/Explosion_0.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Trees/tree3.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO50/UFO5001.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/Droppers/DropperBullet1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/ufo_5.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleMissionButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO27/UFO2701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic7.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/CloudHorizon/CloudHorizon4.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/BuildingFuturistic/buildingFuturistic2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1503.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO74/UFO7401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO65/UFO6501.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Cows/Cow1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Spirit/Spirit.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO23/UFO2301.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/Items/FightCola.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOHelpers/GiantEffect.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Trees/Tree2.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Abductee/Abductee.controller
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO3/UFO301.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Beams/beam1.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO20/UFO2005.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO22/UFO2205.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO18/UFO1804.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman4.asset
+- Assets/AssetBundleResources/AssetBundleResources/Materials/Ground.mat
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO1/UFO107.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO69/UFO6901.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleSky.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Chicks/Chick1.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/MilkBrown.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO84/UFO8402.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO15/UFO1505.png
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_2.anim
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO2/UFO208.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualArrowLeft2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Tips/TipsCow.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO8/UFO804.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO21/UFO2101.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO23/UFO2304.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/MissionHelpers/MisstionTime.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/VendingMachines/vendingMachine1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO28/UFO2804.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO16/UFO1603.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO86/UFO8601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Player/anim/ufo_3.anim
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO63/UFO6301.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO51/UFO5101.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO61/UFO6102.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO96/UFO9601.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageBackground/BuildingFuturistic/BuildingFuturistic5.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO62/UFO6201.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO60/UFO6001.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO54/UFO5401.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Humans/human1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Pause/stageMenuBackground.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageObjects/Buildings/building1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/StageObjects/Humans/Human13.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO4/UFO401.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash5.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/WhiteHumans/WhiteHuman2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Explosion/explosionFront.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO75/UFO7501.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO76/UFO7601.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO97/UFO9701.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/Beams/beam5.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO25/UFO2505.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualBullet1.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageHelpers/Manual/manualArrowRight2.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/Forest/forest1.asset
+- Assets/AssetBundleResources/AssetBundleResources/Animations/Abductee/AbducteeSprite.controller
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/StageBackground/HouseTropical/houseTropical2.asset
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO83/UFO8304.png
+- Assets/AssetBundleResources/AssetBundleResources/Audios/SE/Shoot/abse_019.wav
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO19/UFO1902.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/UFOs/UFO22/UFO2201.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Smoke/effectSmoke3.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO34/UFO3403.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO81/UFO8105.prefab
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/TitleHelper/TitleButton/TitleStartButton.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash4.png
+- Assets/AssetBundleResources/AssetBundleResources/Sprites/Effects/Flash/effectFlash2.png
+- Assets/AssetBundleResources/AssetBundleResources/Prefabs/UFOs/UFO17/UFO1701.prefab
+Dependencies: []

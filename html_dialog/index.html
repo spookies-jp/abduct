@@ -1,14 +1,19 @@
 <html>
 <body>
 <script>
-    function OpenSnsHTMLDialog(){
+    function OpenSnsHTMLDialog(milkNum, isEnglish){
+        
         var SNS_FRAME_ID ="sns-dialog-frame";
         
         var frame = document.getElementById(SNS_FRAME_ID);
+
         // 既にある場合は表示
         if(frame){
-            console.log(frame.contentWindow);
-            frame.contentWindow.OpenDialog();
+            if(frame.contentWindow){
+                frame.contentWindow.OpenDialog(milkNum, isEnglish);
+            } else {
+                console.warn("OpenSnsHTMLDialog: cannot access ifarme window");
+            }
             return;
         }
         
@@ -22,12 +27,31 @@
         frame.style["padding-left"] = "120px";
         frame.style.top = "20px";
         frame.src = "./sns_dialog.html";
-        //frame.src = "./html_dialog/sns_dialog.html";
 
         document.body.appendChild(frame);
-    }
 
-    function OpenSnsMinigameHTMLDialog(currentScore, comboMaxScore){
+         // snsボタン押した際のミルク付与のためのコールバック設定
+        frame.contentWindow.onload = function(){
+
+            if(!frame.contentWindow){
+                console.warn("OpenSnsHTMLDialog: cannot access ifarme window");
+                return;
+            }   
+
+            frame.contentWindow.OpenDialog(milkNum, isEnglish);
+
+            // twitter、facebook 投稿別ウィンドウが閉じたタイミングで呼ばれる
+            frame.contentWindow.snsOpenCallback = function(){
+                
+                SendMessage('SnsShareDialog', 'ExecOpenSocialCallBack');
+
+            }
+            
+        }
+
+    }
+    
+    function OpenSnsMinigameHTMLDialog(isEnglish, currentScore, comboMaxScore){
 
         var SNS_FRAME_ID = "sns-minigame-dialog-frame";
         
@@ -35,29 +59,31 @@
 
         if(frame){
         
-            frame.contentWindow.OpenDialog(currentScore, comboMaxScore);
-
-        } else {
-            
-            // ない場合は新規作成
-            var frame = document.createElement("iframe");
-            frame.id = SNS_FRAME_ID;
-            frame.style.width = "100%";
-            frame.style.height = "100%";
-            frame.style.border = "none";
-            frame.style.position = "absolute";
-            frame.style["padding-left"] = "120px";
-            frame.style.top = "20px";
-            frame.src = "./sns_minigame_dialog.html";
-            //frame.src = "./html_dialog/sns_dialog.html";
-
-            document.body.appendChild(frame);
-
-            frame.contentWindow.onload = function(){
-                frame.contentWindow.OpenDialog(currentScore, comboMaxScore);
+            if(frame.contentWindow){
+                frame.contentWindow.OpenDialog(isEnglish, currentScore, comboMaxScore);
+            } else {
+                console.warn("OpenSnsMinigameHTMLDialog: cannot access ifarme window");
             }
+
+            return;
         }
-        
+            
+        // ない場合は新規作成
+        var frame = document.createElement("iframe");
+        frame.id = SNS_FRAME_ID;
+        frame.style.width = "100%";
+        frame.style.height = "100%";
+        frame.style.border = "none";
+        frame.style.position = "absolute";
+        frame.style["padding-left"] = "120px";
+        frame.style.top = "20px";
+        frame.src = "./sns_minigame_dialog.html";
+
+        document.body.appendChild(frame);
+
+        frame.contentWindow.onload = function(){
+            frame.contentWindow.OpenDialog(isEnglish, currentScore, comboMaxScore);
+        }
 
     }
 
