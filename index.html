@@ -5,9 +5,19 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Abduct.io</title>
 
-    <style type="text/css">body { margin: 0; }</style>
+    <style>
+      html, body {
+          width: 100%;
+          height: 100%;
+          margin: 0;
+      }
+
+      #gameContainer {
+          overflow: hidden;
+      }
+    </style>
+
     <script src="js/setting.js"></script>
-    <script src="js/redirect.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/201709291810.json");

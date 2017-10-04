@@ -43,13 +43,17 @@ window.onload = function(){
 
     function resize(){
 
-        canvas.width = window.innerWidth;
+        var width = document.body.clientWidth;
 
-        gameContainer.style.width = window.innerWidth + "px";
+        var height = document.body.clientHeight;
 
-        canvas.height = window.innerHeight;
+        canvas.width = width;
 
-        gameContainer.style.height = window.innerHeight + "px";
+        gameContainer.style.width = width + "px";
+
+        canvas.height = height;
+
+        gameContainer.style.height = height + "px";
 
     }
 
